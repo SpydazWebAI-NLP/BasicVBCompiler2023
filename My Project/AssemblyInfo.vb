@@ -9,7 +9,7 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("SpydazWeb Basic VB Compiler 2023")>
-<Assembly: AssemblyDescription("A Basic COmiler to be added to Your app. Enables for adding VBcode and executing Code on the FLy")>
+<Assembly: AssemblyDescription("A Basic Compiler to be added to Your app. Enables for adding VBcode and executing Code on the FLy")>
 <Assembly: AssemblyCompany("SpydazWebAI Creations")>
 <Assembly: AssemblyProduct("VB_Compiler_IDE")>
 <Assembly: AssemblyCopyright("Copyright © SpydazWeb 2023")>
